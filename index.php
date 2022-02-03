@@ -29,6 +29,10 @@
 </head>
 <body>
     
+    <!--===============================================
+    HEADER
+    ================================================-->
+
     <header>
         <nav class="purple darken-1">
             <div class="container">
@@ -51,6 +55,30 @@
         </ul>
     </header>
 
+    <!--===============================================
+    HERO
+    ================================================-->
+
+    <section>
+        <div>
+            <div class="container">
+                <h2 class="title-hero">
+                    Lorem ipsum dolor sit amet consectetur adipisicing.
+                </h2>
+                <p>Lorem ipsum dolor sit amet.</p>
+            </div>
+        </div>
+    </section>
+
+    <footer class="purple darken-1">
+        <div class="container">
+            <p class="copy">
+                &copy; Todos los derechos reservados
+            </p>
+        </div>
+    </footer>
+
+    <div class="scrolltop scrolltop-dark"></div>
     <script src="js/app.js"></script>
 
 </body>
